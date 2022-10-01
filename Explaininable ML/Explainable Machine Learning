@@ -1,0 +1,20 @@
+Explainable Machine Learning
+
+Its essential to understand why your model works and why it works:
+
+	1. Improve Performance
+	2. Gain trust of Business Stakeholders
+	3. Appeal to consumers
+	4. Be able to explain to regulator on the fairness of the models
+
+
+How to explain your AI:
+
+	1. PUblishing Algorithms
+	2. Use Interpretable Model
+	3. Spend time analysing before modelling
+	4. Proxy Models
+	5. Analyse models once made
+
+
+Shapley Values with The Game Theory
